@@ -26,7 +26,8 @@ AI đóng vai trò **Chuyên gia Phân tích Dữ liệu & Thiết kế Trình c
 
 
 ## 📂 4. Cấu trúc thư mục
-my-ai-capstone-project/
+```text
+AI-Prototype-for-creating-PowerPoint-slides/
 ├── README.md
 ├── docs/
 │ ├── system-design.md
@@ -40,6 +41,8 @@ my-ai-capstone-project/
 │ └── failure-analysis.md
 └── demo/
 └── sample-inputs/
+```
+
 ## 🚀 5. Hướng dẫn chạy nhanh
 
 1. **Chuẩn bị:** Python ≥ 3.9, cài đặt `python-pptx`:
